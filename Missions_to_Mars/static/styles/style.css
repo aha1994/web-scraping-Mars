@@ -1,0 +1,43 @@
+.header {
+    text-align: center;
+    font-size: 70px;
+    color: maroon;
+}
+
+.news_head {
+    text-align: center;
+    font-size: xx-large;
+    text-decoration: underline;
+}
+
+.news_title {
+    text-align: center;
+    font-size: large;
+    text-decoration: underline;
+}
+
+.news_body {
+    text-align: center;
+    font-size: medium;   
+}
+
+.weather_block {
+    list-style-position:inside;
+    border: 1px solid black;
+}
+
+.fact_head {
+    text-align: center;
+}
+
+.iframe {
+    align-content: center;
+    align-self: center;
+    text-align: center;
+}
+
+.hemi_head {
+    text-align: center;
+    font-size: xx-large;
+    text-decoration: underline; 
+}
